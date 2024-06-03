@@ -1,1 +1,1 @@
-Пример автотестов на pytest + requests
+Пример автотестов на python + pytest + requests
